@@ -11,5 +11,9 @@ plugins:
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/hmpl-language/hmpl" }
+<<<<<<< HEAD
     - { platform: twitter, user_url: "https://x.com/hmpljs" }
+=======
+    - { platform: x, user_url: "https://x.com/hmpljs" }
+>>>>>>> hmpl/blog
     - { platform: rss, user_url: "/feed.xml" }
